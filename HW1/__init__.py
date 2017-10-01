@@ -1,0 +1,1 @@
+print(len([a for a in 'aeiou' if a in'thias']))
